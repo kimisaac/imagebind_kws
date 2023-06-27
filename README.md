@@ -1,5 +1,5 @@
 
-#Zero Shot Keyword Spotting (KWS) using ImageBind
+# Zero Shot Keyword Spotting (KWS) using ImageBind
 
 This project focuses on developing an algorithm using ImageBind for zero-shot classification of the KWS test dataset. The KWS dataset consists of 37 single-word utterances, including categories like "Yes," "No," "Left," "Right," and others. It also includes silence and unknown categories. You can download the dataset from the torchaudio datasets.
 
