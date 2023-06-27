@@ -16,4 +16,3 @@ Note: Please refer to the GitHub repository below for access to the KWS dataset 
 
 [Deep-Learning-Experiments: KWS Demo](https://github.com/roatienza/Deep-Learning-Experiments/blob/master/versions/2022/supervised/python/kws_demo.ipynb)
 
-Feel free to explore the repository for further instructions and resources related to the dataset.
