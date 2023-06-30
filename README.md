@@ -12,6 +12,13 @@ Summary Statistics: The algorithm provides summary statistics, including the num
 Comparison
 Here is a comparison table showcasing the performance scores of state-of-the-art (SOTA) models for KWS. The table indicates whether each model was trained using supervised, self-supervised, or weakly supervised approaches. It also specifies whether the evaluation is zero-shot, few-shot, or not applicable.
 
+   
+SOTA Models Scores
+| Model                 | Training Approach   | Evaluation     | Accuracy   |
+|-----------------------|---------------------|----------------|------------|
+| Imagebind-KWS         | Unsupervised        | Zero Shot      | 0.0225     |
+| TripletLoss-res15     | Unsupervised        | Not zero or few| 0.9856     |
+
 Note: Please refer to the GitHub repository below for access to the KWS dataset and additional information.
 
 [Deep-Learning-Experiments: KWS Demo](https://github.com/roatienza/Deep-Learning-Experiments/blob/master/versions/2022/supervised/python/kws_demo.ipynb)
