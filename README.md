@@ -19,6 +19,8 @@ SOTA Models Scores
 | Imagebind-KWS         | Unsupervised        | Zero Shot      | 0.0225     |
 | TripletLoss-res15     | Unsupervised        | Not zero or few| 0.9856     |
 
+Accuracy is very low, improvements can be made with segment combinations feeding into Open-CLIP instead of subsegments output of SAM.
+
 Note: Please refer to the GitHub repository below for access to the KWS dataset and additional information.
 
 [Deep-Learning-Experiments: KWS Demo](https://github.com/roatienza/Deep-Learning-Experiments/blob/master/versions/2022/supervised/python/kws_demo.ipynb)
